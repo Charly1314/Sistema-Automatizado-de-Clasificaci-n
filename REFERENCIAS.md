@@ -10,12 +10,19 @@ Rashid, M. H. (2014). *Power electronics handbook: Devices, circuits, and applic
 
 Sedra, A. S., & Smith, K. C. (2016). *Microelectronic circuits* (8th ed.). Oxford University Press.
 
+Beazley, D., & Jones, B. K. (2013). *Python cookbook* (3rd ed.). O'Reilly Media.
+
+Sweigart, A. (2019). *Automate the boring stuff with Python: Practical programming for total beginners* (2nd ed.). No Starch Press.
+
 ## Referencias Técnicas
 
 - Arduino IDE Documentation. (n.d.). *Arduino Official Documentation*. Recuperado de https://docs.arduino.cc/
 - Pololu Robotics & Electronics. (n.d.). *NEMA 17 Stepper Motor Resources*. Recuperado de https://www.pololu.com/
 - PySerial Contributors. (n.d.). *pySerial Documentation - Python Serial Port Extension*. Recuperado de https://pyserial.readthedocs.io/
 - Servo Motor Documentation. (n.d.). *Standard Servo Motor Control with Arduino*. Recuperado de https://docs.arduino.cc/
+- STMicroelectronics. (n.d.). *L298N Dual Full-Bridge Driver Datasheet*. Recuperado de https://www.st.com/
+- National Instruments. (n.d.). *PWM (Pulse Width Modulation) Fundamentals*. Recuperado de https://www.ni.com/
+- Real Python. (n.d.). *Serial Port Communication in Python*. Recuperado de https://realpython.com/
 
 ## Componentes del Proyecto
 
